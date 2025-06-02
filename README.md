@@ -1,6 +1,4 @@
 
-
-readme_content = """
 # 🏥 Hospital Management System
 
 A modern full-stack hospital management system for managing appointments, patients, doctors, and admin dashboards — built with **React**, **Express**, **TypeScript**, **MySQL**, and **Drizzle ORM**.
